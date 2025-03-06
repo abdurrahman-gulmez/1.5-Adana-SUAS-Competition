@@ -1,0 +1,50 @@
+<annotation>
+	<folder>bus</folder>
+	<filename>bus (212).jpeg</filename>
+	<path>C:\Users\abdur\SUAS COMPETITION\models-master\custom object\images\bus\bus (212).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>43</ymin>
+			<xmax>277</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>23</ymin>
+			<xmax>199</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>47</ymin>
+			<xmax>112</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>

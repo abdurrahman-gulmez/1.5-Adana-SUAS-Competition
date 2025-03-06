@@ -1,0 +1,24 @@
+item {
+  name: "airplane"
+  id: 1
+}
+item {
+  name: "baseball bat"
+  id: 2
+}
+item {
+  name: "bed-matress"
+  id: 3
+}
+item {
+  name: "boat"
+  id: 4
+}
+item {
+  name: "bus"
+  id: 5
+}
+item {
+  name: "car"
+  id: 6
+}

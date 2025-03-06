@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bed-metress</folder>
+	<filename>bed-matress (481).jpeg</filename>
+	<path>C:\Users\abdur\SUAS COMPETITION\models-master\custom object\images\image data\bed-metress\bed-matress (481).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>290</width>
+		<height>173</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bed-matress</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>58</ymin>
+			<xmax>229</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>boat</folder>
+	<filename>boat (196).jpeg</filename>
+	<path>C:\Users\abdur\SUAS COMPETITION\models-master\custom object\images\boat\boat (196).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>195</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>64</ymin>
+			<xmax>140</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>

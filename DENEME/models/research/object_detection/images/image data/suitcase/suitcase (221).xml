@@ -1,0 +1,50 @@
+<annotation>
+	<folder>suitcase</folder>
+	<filename>suitcase (221).jpg</filename>
+	<path>C:\Users\abdur\DENEME\models\research\object_detection\images\image data\suitcase\suitcase (221).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>277</width>
+		<height>182</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>suitcase</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>71</ymin>
+			<xmax>176</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>suitcase</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>74</ymin>
+			<xmax>113</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>suitcase</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>48</ymin>
+			<xmax>85</xmax>
+			<ymax>121</ymax>
+		</bndbox>
+	</object>
+</annotation>

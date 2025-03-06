@@ -1,0 +1,38 @@
+<annotation>
+	<folder>stop sign</folder>
+	<filename>stop sign (135).png</filename>
+	<path>C:\Users\abdur\DENEME\models\research\object_detection\images\image data\stop sign\stop sign (135).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>336</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>3</ymin>
+			<xmax>327</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stop sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>4</ymin>
+			<xmax>152</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>motorcycle</folder>
+	<filename>motorcycle (26).jpeg</filename>
+	<path>C:\Users\abdur\SUAS\models-master\custom object\images\image data\motorcycle\motorcycle (26).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>186</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>75</ymin>
+			<xmax>212</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>

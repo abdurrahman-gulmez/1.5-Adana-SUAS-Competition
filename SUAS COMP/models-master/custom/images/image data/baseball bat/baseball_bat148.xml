@@ -1,0 +1,26 @@
+<annotation>
+	<folder>baseball bat</folder>
+	<filename>baseball_bat148.jpeg</filename>
+	<path>C:\Users\abdur\SUAS COMPETITION\models-master\custom object\images\image data\baseball bat\baseball_bat148.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>282</width>
+		<height>178</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baseball bat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>110</ymin>
+			<xmax>251</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

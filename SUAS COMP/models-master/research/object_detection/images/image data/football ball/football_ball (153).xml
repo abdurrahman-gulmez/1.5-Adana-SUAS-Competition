@@ -1,0 +1,26 @@
+<annotation>
+	<folder>football ball</folder>
+	<filename>football_ball (153).jpeg</filename>
+	<path>C:\Users\abdur\SUAS\models-master\custom object\images\image data\football ball\football_ball (153).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>252</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>football ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>207</ymin>
+			<xmax>68</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

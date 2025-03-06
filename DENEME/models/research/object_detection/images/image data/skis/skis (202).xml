@@ -1,0 +1,26 @@
+<annotation>
+	<folder>skis</folder>
+	<filename>skis (202).jpg</filename>
+	<path>C:\Users\abdur\SUAS\models-master\custom object\images\image data\skis\skis (202).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>305</width>
+		<height>165</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skis</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>107</ymin>
+			<xmax>305</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

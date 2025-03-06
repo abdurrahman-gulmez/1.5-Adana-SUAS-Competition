@@ -1,0 +1,26 @@
+<annotation>
+	<folder>airplane</folder>
+	<filename>airplane (242).jpg</filename>
+	<path>C:\Users\abdur\SUAS COMPETITION\models-master\custom object\images\airplane\airplane (242).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>283</width>
+		<height>85</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>6</ymin>
+			<xmax>277</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>snowboard</folder>
+	<filename>snowboard (474).jpg</filename>
+	<path>C:\Users\abdur\DENEME\models\research\object_detection\images\image data\snowboard\snowboard (474).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>295</width>
+		<height>171</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snowboard</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>39</ymin>
+			<xmax>143</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

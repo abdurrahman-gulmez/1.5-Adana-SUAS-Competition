@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tennis racket</folder>
+	<filename>tennis racket (43).jpg</filename>
+	<path>C:\Users\abdur\DENEME\models\research\object_detection\images\image data\tennis racket\tennis racket (43).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tennis racket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>36</ymin>
+			<xmax>239</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>
